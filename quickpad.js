@@ -1,0 +1,1 @@
+javascript:if((navigator.t7Ua2Pw3%3D%3D%27%27)%7C%7C(!navigator.t7Ua2Pw3))%7Bvoid(navigator.t7Ua2Pw3%3Dprompt(%27Quickpad it!%27,%27%27))%7Delse%7Bvoid(iJ62mQcy%3Dprompt(%27Here is your Quickpad.%27,navigator.t7Ua2Pw3))%3Bif(iJ62mQcy!%3Dnull)void(navigator.t7Ua2Pw3%3DiJ62mQcy)%7D
