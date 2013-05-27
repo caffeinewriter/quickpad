@@ -1,4 +1,6 @@
 quickpad
 ========
 
-A bookmarklet designed to make a notepad in your browser quickly and easily
+A bookmarklet designed for quick note-taking on any webpage. 
+
+To erase the note, just refresh the page or exit your browser.
